@@ -17,14 +17,14 @@ Traditional IT environments, especially in large enterprises, often fall into a 
 ### Chronic Conflict 
 The constant push-pull between Development (who want to release fast and innovate) and Operations (who want to ensure stability and reliability) creates tension and misalignment. Dr. Eliyahu M. Goldratt, one of the founders of the manufacturing management movement, said , *"the core, chronic conflict" - When organizational measurements and incentives across different silos prevent the achievement of global, organizational goals*
 
-### Downward Spiral:
+### The ultimate Downward Spiral
 A reinforcing loop where missed expectations lead to blame, which leads to more siloing and less communication, which leads to more failures and fear—creating a cycle that’s hard to escape.
 
-### Human and Economic Cost:
+### Human Resource cost
 Teams experience burnout, anxiety, and helplessness. Late-night firefighting becomes the norm, and people fear raising concerns, leading to a loss of trust and psychological safety.
 
-### Economic Cost: 
-Every delay, failure, and rework increases the cost of delivery. Unplanned downtime leads to customer dissatisfaction, potential revenue loss, and reputational damage.
+### Economic Cost 
+Every delay, failure, and rework increases the cost of delivery. Unplanned downtime leads to customer dissatisfaction, potential revenue loss, and reputational damage. Most of the funding in any project is spent on operating costs, maintaining existing systems and urgent, unplanned work. 
 
 ## 🔄 The Need for DevOps: Breaking the Cycle
 DevOps is not just a set of tools , it’s a mindset shift that aims to address these fundamental cultural issues. It introduces technical practices and fosters a collaborative culture where teams work together, learn together, and own outcomes together.
