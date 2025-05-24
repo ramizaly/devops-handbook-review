@@ -14,7 +14,17 @@ Traditional IT environments, especially in large enterprises, often fall into a 
 
 - **Resistance to Change:** Teams are terrified to try new things. Even small improvements like introducing HPA (Horizontal Pod Autoscalers) or moving from deployments to Kubernetes Jobs are met with resistance. People worry that changes will break things and they’ll be held responsible. Innovation dies in this fear.
 
-- **Lack of Shared Learning:** Every team works in their own little world, so knowledge is not shared. Devs know how the code works but not how it behaves under load. Ops know how to patch servers but not why the app keeps crashing. QA knows the test cases but not the architecture. When incidents happen, they aren’t treated as opportunities to learn; they’re treated as events to survive and blame others for.
+### Chronic Conflict 
+The constant push-pull between Development (who want to release fast and innovate) and Operations (who want to ensure stability and reliability) creates tension and misalignment. Dr. Eliyahu M. Goldratt, one of the founders of the manufacturing management movement, said , *"the core, chronic conflict" - When organizational measurements and incentives across different silos prevent the achievement of global, organizational goals*
+
+### Downward Spiral:
+A reinforcing loop where missed expectations lead to blame, which leads to more siloing and less communication, which leads to more failures and fear—creating a cycle that’s hard to escape.
+
+### Human and Economic Cost:
+Teams experience burnout, anxiety, and helplessness. Late-night firefighting becomes the norm, and people fear raising concerns, leading to a loss of trust and psychological safety.
+
+### Economic Cost: 
+Every delay, failure, and rework increases the cost of delivery. Unplanned downtime leads to customer dissatisfaction, potential revenue loss, and reputational damage.
 
 ## 🔄 The Need for DevOps: Breaking the Cycle
 DevOps is not just a set of tools , it’s a mindset shift that aims to address these fundamental cultural issues. It introduces technical practices and fosters a collaborative culture where teams work together, learn together, and own outcomes together.
