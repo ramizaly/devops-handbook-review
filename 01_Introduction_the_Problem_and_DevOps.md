@@ -1,4 +1,4 @@
-# 01 - Introduction, The Problem and DevOps to the resure
+# 01 - Introduction, The Problem and DevOps to the rescue
 
 ## 🚧 Traditional IT Challenges: The Downward Spiral
 
