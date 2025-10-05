@@ -5,6 +5,7 @@ This repository contains my **structured book review** of the *DevOps Handbook: 
 ## 📚 Contents
 
 - [01 - Introduction and The DevOps Problem](./01_Introduction_the_Problem_and_DevOps.md)
+- [02 - The three Ways](./02_The_Three_Ways.md)
 
 
 ---
